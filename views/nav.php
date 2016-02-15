@@ -1,3 +1,4 @@
+<header>
 <nav>
     <ul>
         <li><a href="#"><img class="brand" src="images/woodslogo2.png" alt=""></a></li>
@@ -9,3 +10,4 @@
         <li class="icons" ><a href="#"><i class="fa fa-instagram"></i></a></li>
     </ul>
 </nav>
+</header>

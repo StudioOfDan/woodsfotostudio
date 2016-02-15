@@ -14,8 +14,10 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'home';
 
 switch ($page) {
 	case 'home':
+	include 'logic/info_select.php';
 	include 'views/nav.php';
 	include 'views/banner.php';
+	include 'views/content.php';
 	include 'views/footer.php';
 		break;
 	
