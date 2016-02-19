@@ -1,7 +1,7 @@
 
 <div class="wrapper">
 <div class="textwrap">
-<p class="uppertext">welcome to</p>
+<p class="uppertext">welkom bij</p>
 <div class="maintext">Woods fotostudio's</div>
 <div class="textwrap2">
 <div class="container">
@@ -12,6 +12,7 @@
 </div>
 <div class="col-xs-6">
 <a href="#"><div class="verhuurbutton2">Informatie</div></a>
+</div>
 </div>
 </div>
 </div>
