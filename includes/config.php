@@ -7,4 +7,4 @@ setlocale(LC_ALL, 'nl_NL');
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'woods');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'dakosa123');
+define('DB_PASSWORD', 'root');
